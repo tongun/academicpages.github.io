@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a PhD student at Northeastern University, advised by [Alina Oprea](http://www.ccs.neu.edu/home/alina/index.html) and [Cristina Nita-Rotaru](http://cnitarot.github.io)
 
