@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+*Talha Ongun*, Alina Oprea, Cristina Nita-Rotaru, Mihai Christodorescu, Negin Salajegheh. **"The House That Knows You: User Authentication Based on IoT Data"**, ACM Conference on Computer and Communication Security (CCS) Poster Session, 2018

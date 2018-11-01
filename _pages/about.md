@@ -12,4 +12,8 @@ I am a PhD student at Northeastern University, advised by [Alina Oprea](http://w
 
 I am interested in the security of home-based IoT networks. Currently, I am working on applying machine learning techniques to process IoT-generated data to provide implicit authentication mechanisms. I conduct experiments in our IoT test lab, [MON(IOT)R](https://moniotrlab.ccis.neu.edu).
 
+I am also working on large scale malware detection systems, specifically focusing on self-propagating malware.
+
+I am also interested in automated vulnerability discovery and fuzzing. We are investigating methods combining machine-learning based static analysis to guide the fuzzing process to make it more efficient.
+
 Prior to joining Northeastern, I was a software developer at SAP, working on [SAP VORA](https://www.sap.com/products/hana-vora-hadoop.html), a distributed in-memory database solution on Hadoop data.
